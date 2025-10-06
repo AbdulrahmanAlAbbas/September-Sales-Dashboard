@@ -1,0 +1,20 @@
+# تجاهل بيئة venv
+venv/
+
+# تجاهل ملفات Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# تجاهل ملفات النظام
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# تجاهل ملفات إعدادات VSCode
+.vscode/
+
+# تجاهل أي ملفات مؤقتة
+*.tmp
+*.log
